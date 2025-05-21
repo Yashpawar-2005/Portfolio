@@ -214,7 +214,71 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/Yashpawar-2005/Car3Dwebsite.git",
+    source_code_link: "https://github.com/Yashpawar-2005/Car3Dwebsite",
+  },
+  {
+    name: "Sheet - Sure",
+    description:
+      "A web application that allows users to create, edit, and share spreadsheets online. It offers real-time collaboration, data visualization, and seamless integration with other productivity tools.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+    ],
+    image: sure-sheet,
+    source_code_link:"https://github.com/Yashpawar-2005/barclays",
+
+  },
+  {
+    name: "Bo",
+    description:
+      "A fully functional e-commerce website that allows users to browse products, add them to their cart, and complete purchases securely. It features user authentication, product search, and payment integration.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/ShardulNalegave/inc-techfiesta",
+  },
+  {
+    name: "E-commerce Website",
+    description:
+      "A fully functional e-commerce website that allows users to browse products, add them to their cart, and complete purchases securely. It features user authentication, product search, and payment integration.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "",
   },
   {
     name: "Portfolio Website",
