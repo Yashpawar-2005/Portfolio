@@ -234,7 +234,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: sure-sheet,
+    image: carrent,
     source_code_link:"https://github.com/Yashpawar-2005/barclays",
 
   },
