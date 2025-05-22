@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        "As a dedicated frontend developer specializing in React, I craft dynamic and responsive user interfaces that bring ideas to life. My expertise lies in transforming complex requirements into seamless, visually appealing web applications that prioritize performance and user experience."
+        "Software engineering student passionate about full-stack development, building scalable systems, and DevOps. I enjoy creating solutions that seamlessly integrate code and infrastructure."
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

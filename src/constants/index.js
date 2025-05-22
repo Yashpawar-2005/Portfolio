@@ -28,6 +28,7 @@ import {
   image1,
   image2,
   image3,
+  wow,kube,
 } from "../assets";
 
 export const navLinks = [
@@ -66,8 +67,8 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Kubernetes",
+    icon: kube,
   },
   {
     name: "CSS 3",
@@ -206,42 +207,7 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Pokedex!Find them all",
-    description:
-      "A sleek and interactive Pokédex website that allows users to explore, capture, and learn about their favorite Pokémon with stunning visuals and dynamic animations. Perfect for both casual fans and dedicated trainers.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-     
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/Yashpawar-2005/IEEE-hackethon.git",
-  },
-  {
-    name: "Car modifier",
-    description:
-     "Creating emmercive experience for user for redisining there own car",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      
-      {
-        name: "three.js",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/Yashpawar-2005/Car3Dwebsite",
-  },
+  
   {
     name:"Code-Share",
     description:"A web-based platform that allows users to share and collaborate on code snippets in real-time. It features chat and a user-friendly interface for seamless coding.",
@@ -347,6 +313,59 @@ const projects = [
     image: image2,
     source_code_link: "https://github.com/Yashpawar-2005/temp-pbl.git",
   },
+  {
+    name: "Pokedex!Find them all",
+    description:
+      "A sleek and interactive Pokédex website that allows users to explore, capture, and learn about their favorite Pokémon with stunning visuals and dynamic animations. Perfect for both casual fans and dedicated trainers.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+     
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/Yashpawar-2005/IEEE-hackethon.git",
+  },
+  {
+    name: "Car modifier",
+    description:
+     "Creating emmercive experience for user for redisining there own car",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      
+      {
+        name: "three.js",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/Yashpawar-2005/Car3Dwebsite",
+  },
+  {
+    name:"Schema Builder",
+    description:"A web-based tool that allows users to create and collabrate database schemas. It features a user-friendly interface for designing schemas, generating SQL code, and exporting designs.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      
+      {
+        name: "three.js",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: wow,
+    source_code_link: "",
+  }
 ];
 
 export { services, technologies, experiences, testimonials, projects };
