@@ -23,7 +23,7 @@ import threejs from "./tech/threejs.svg";
 import image1 from "./image1.png"
 import image2 from "./image2.png"
 import image3 from "./image3.png"
-import image4 from "./barc.png"
+import image4 from "./barc.jpg"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
