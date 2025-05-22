@@ -8,6 +8,7 @@ import {
   html,
   css,
   reactjs,
+  barc,
   redux,
   tailwind,
   nodejs,
@@ -50,15 +51,15 @@ const services = [
     icon: web,
   },
   {
-    title: "React Developer",
+    title: "Cloud Engineer",
     icon: mobile,
   },
   {
-    title: "ML Enthusiast",
+    title: "DevOps Engineer",
     icon: backend,
   },
   {
-    title: "DSA",
+    title: "DSA Practitioner",
     icon: creator,
   },
 ];
@@ -102,9 +103,22 @@ const technologies = [
     icon: git,
   },
   {
+    name: "docker",
+    icon: docker,
+  },
+  {
     name: "figma",
     icon: figma,
   },
+  {
+    name: "mongodb",
+    icon: mongodb,
+  },
+  {
+    name: "nodejs",
+    icon: nodejs,
+  },
+  
   
 ];
 
@@ -181,6 +195,14 @@ const testimonials = [
     company: "PICT PUNE",
     image: "",
   },
+  {
+    testimonial:
+    "Amazing work",
+    name: "Shrawani",
+    designation: "Student",
+    company: "PICT PUNE",
+    image: "",
+  }
 ];
 
 const projects = [
@@ -258,7 +280,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: carrent,
+    image: barc,
     source_code_link:"https://github.com/Yashpawar-2005/barclays",
 
   },
@@ -301,7 +323,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: carrent,
+    image: image3,
     source_code_link: "https://github.com/ShardulNalegave/inc-techfiesta",
   },
   {
