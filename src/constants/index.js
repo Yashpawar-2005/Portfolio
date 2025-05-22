@@ -364,7 +364,7 @@ const projects = [
       },
     ],
     image: wow,
-    source_code_link: "",
+    source_code_link: "https://github.com/Yashpawar-2005/coep-project-testing",
   }
 ];
 
