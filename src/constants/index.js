@@ -23,6 +23,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  brainly,
+  image1,
+  image2,
+  image3,
 } from "../assets";
 
 export const navLinks = [
@@ -217,6 +221,26 @@ const projects = [
     source_code_link: "https://github.com/Yashpawar-2005/Car3Dwebsite",
   },
   {
+    name:"Code-Share",
+    description:"A web-based platform that allows users to share and collaborate on code snippets in real-time. It features chat and a user-friendly interface for seamless coding.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+    ],
+    image: image1,
+    source_code_link: "https://github.com/Yashpawar-2005/realtime-code-editor",
+  },
+  {
     name: "Sheet - Sure",
     description:
       "A web application that allows users to create, edit, and share spreadsheets online. It offers real-time collaboration, data visualization, and seamless integration with other productivity tools.",
@@ -239,9 +263,30 @@ const projects = [
 
   },
   {
-    name: "Bo",
+    name: "Brainy",
     description:
-      "A fully functional e-commerce website that allows users to browse products, add them to their cart, and complete purchases securely. It features user authentication, product search, and payment integration.",
+      "A modern web-based AI assistant integrating Retrieval-Augmented Generation (RAG) for document-based question answering and knowledge retrieval. Built using React, TypeScript, and advanced API integrations.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+    ],
+    image: brainly,
+    source_code_link: "https://github.com/Yashpawar-2005/brainy",
+  },
+  {
+    name: "Safey",
+    description:
+      "A mobile application designed to enhance personal  women safety and security. It features real-time location tracking, emergency alerts, and a user-friendly interface for quick access to safe paths.",
     tags: [
       {
         name: "react",
@@ -260,30 +305,9 @@ const projects = [
     source_code_link: "https://github.com/ShardulNalegave/inc-techfiesta",
   },
   {
-    name: "E-commerce Website",
+    name: "Campus Connect",
     description:
-      "A fully functional e-commerce website that allows users to browse products, add them to their cart, and complete purchases securely. It features user authentication, product search, and payment integration.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "",
-  },
-  {
-    name: "Portfolio Website",
-    description:
-      "Created a portflio website creating a eye catching effect on the recruiter",
+      "A web application designed to connect students and faculty members, facilitating communication, tNp, and resource sharing within the campus community. It features user profiles, and provides placement stats.",
     tags: [
       {
         name: "react",
@@ -298,8 +322,8 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/Yashpawar-2005/Portfolio.git",
+    image: image2,
+    source_code_link: "https://github.com/Yashpawar-2005/temp-pbl.git",
   },
 ];
 
