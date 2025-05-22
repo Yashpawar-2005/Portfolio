@@ -106,18 +106,18 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "mongodb",
-    icon: mongodb,
-  },
-  {
-    name: "nodejs",
-    icon: nodejs,
-  },
+  // {
+  //   name: "figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "mongodb",
+  //   icon: mongodb,
+  // },
+  // {
+  //   name: "nodejs",
+  //   icon: nodejs,
+  // },
   
   
 ];
